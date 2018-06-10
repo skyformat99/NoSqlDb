@@ -1,0 +1,8 @@
+﻿  XmlParser.cpp
+  XmlElement.cpp
+  xmlElementParts.cpp
+  Tokenizer.cpp
+  XmlDocument.cpp
+  Utilities.cpp
+  Generating Code...
+  XmlParser.vcxproj -> C:\su\Repository\XmlDocument\Debug\XmlParser.exe
